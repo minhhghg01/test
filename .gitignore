@@ -1,0 +1,6 @@
+# Default ignored files
+/.idea/
+/target/
+/.vscode/
+/src/main/resources/sprites/
+*.iml
